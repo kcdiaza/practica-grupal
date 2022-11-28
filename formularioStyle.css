@@ -1,0 +1,25 @@
+form{
+    background-color: rgb(236, 236, 239);
+    width: 75%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+
+    
+}
+
+button{
+    float: right;
+   
+}
+
+.col-form-label {
+    text-align:end;
+    
+}
+
+
+
+.display-4{
+    font-family:Georgia;
+}
+
